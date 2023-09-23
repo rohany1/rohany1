@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohany1
-- 👀 I’m interested in ReactJs, Problem solving, Cycling.
-- 🌱 I’m currently learning ReactJS and Data Structures.
-- 💞️ I’m looking to collaborate on ReactJs and Front End Dev.
+- 👀 I’m interested in Problem solving.
 - 📫 How to reach me Just ping me up on Linkedin https://www.linkedin.com/in/rohan-yadav-544979199/
 - Be happy.
 
